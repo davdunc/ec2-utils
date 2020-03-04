@@ -3,7 +3,6 @@ Summary:   A set of tools for running in EC2
 Version:   1.1
 Release:   1%{?dist}
 License:   MIT
-%
 Group:     System Tools
 
 Source0:   ec2-metadata
